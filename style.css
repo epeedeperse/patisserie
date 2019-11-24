@@ -41,6 +41,12 @@
 	width: 10vw;
 	height: 65vh;
 }
+.footer{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	color: white;
+}
 .partenaires {
 	display:flex-wrap : 
 	height: 50px;
