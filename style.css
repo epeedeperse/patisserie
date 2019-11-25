@@ -4,9 +4,11 @@
 	justify-content: flex-end;
 	align-items: center;
 	color: white;
-
 }
-
+logoposition{
+	display: flex;
+	justify-content: flex-start;
+}
 .logo {
 	text-decoration: none
 }
