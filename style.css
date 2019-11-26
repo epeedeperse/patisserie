@@ -29,14 +29,13 @@
 	font-size: 14px;
 	font-family: arial;
 	border-radius: 4px;
-
 }
 
 .img-carousel {
 	width: 10vw;
 	height: 65vh;
 }
-.footer3{
+.footer3 {
 	background-color: rgb(102 0 0);
 	display: flex;
 	justify-content: space-around;
@@ -44,7 +43,7 @@
 	color: white;
 }
 
-.footer2{
+.footer2 {
 	display: flex;
 	justify-content: space-around;
 }
