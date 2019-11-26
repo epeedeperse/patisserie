@@ -5,11 +5,9 @@
 	align-items: center;
 	color: white;
 }
-.logoposition{
+.logo {
 	display: flex;
 	justify-content: flex-start;
-}
-.logo {
 	text-decoration: none
 }
 
@@ -79,7 +77,7 @@
 	padding:20px;
 }
 .icones-reseaux {
-	color:#472B26;
+	color:rgb(0,0,255);
 	font-size:35px;
 	object-fit:cover;
 	margin-right:10px;
