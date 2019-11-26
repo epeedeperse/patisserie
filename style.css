@@ -6,8 +6,6 @@
 	color: white;
 }
 .logo {
-	display: flex;
-	justify-content: flex-start;
 	text-decoration: none
 }
 
